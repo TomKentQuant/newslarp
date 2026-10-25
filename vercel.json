@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/news/story3834",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/news/story3834/",
+      "destination": "/index.html"
+    }
+  ]
+}
